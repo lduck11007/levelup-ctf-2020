@@ -2,7 +2,7 @@
  
 Now that exams are over, I am proud to release my little pet project. This is a CTF that is, in many ways, like every other CTF you have encountered so far. However, this CTF differs from the rest in one small, insignificant detail.
 
-_<h2>You make the challenges.</h2>_
+_<h3>You make the challenges.</h3>_
 
 My challenge to you, if you choose to accept it, is to make a CTF challenge of your own and submit it to the LevelUpCTF github. As an extension to this challenge, don’t make a challenge you already know how to solve. Try to make a challenge in a field that currently isn’t your strong suit. 
 
@@ -17,5 +17,5 @@ My aim for this CTF is that each and everyone one of you that choses to particip
 
 Not sure where to start? [Look at these examples](./Example%20Challenges)
 
-<h3>Best of Luck,
-Daniel (@F4ng#2709)</h3>
+**Best of Luck,
+Daniel (@F4ng#2709)**
