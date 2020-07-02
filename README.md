@@ -13,7 +13,9 @@ LevelUpCTF comes in two phases. Phase One: you make and submit your challenges. 
 
 After the 3rd we will enter Phase Two - the actual CTF. For the first two weeks of Semester 2 (3rd of August – 16th of August) MONSEC will be hosting the submitted challenges, for you to try and solve yourself. During this time, for the challenges you solve, you will be able to give feedback to the creator; including rating their challenge in a series of categories, such as “how realistic it is” or “how novel the solution was to you”. 
 
-My aim for this CTF is that each and everyone one of you that choses to participate will level-up your skills as a L33T Hax0r. After creating these challenges, you should learn skills in a new field and might even find you enjoy it more than the one you are currently focusing on. I hope to have fun with the challenge, and I look forward to seeing what you come up with. 
+My aim for this CTF is that each and everyone one of you that choses to participate will level-up your skills as a L33T Hax0r. After creating these challenges, you should learn skills in a new field and might even find you enjoy it more than the one you are currently focusing on. I hope to have fun with the challenge, and I look forward to seeing what you come up with.
+
+Not sure where to start? [Look at these examples](./Example%20Challenges)
 
 <h3>Best of Luck,
 Daniel (@F4ng#2709)</h3>
