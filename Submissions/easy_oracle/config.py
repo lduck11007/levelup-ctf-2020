@@ -1,5 +1,6 @@
 def render_source(name):
-    return "<pre>" + open(name).read() + "</pre>"
+    with open(name) as f:
+    return "<pre>" + f.read() + "</pre>"
 
 flag = b"FLAG{b3w4r3_0f_r5a_0r4cl3s}"
 
