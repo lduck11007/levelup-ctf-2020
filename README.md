@@ -9,9 +9,9 @@ My challenge to you, if you choose to accept it, is to make a CTF challenge of y
 For example, I personally focus primarily on memory corruption challenges and as such don’t have a great amount of knowledge around web app vulnerabilities. So, for my submission to LevelUpCTF I will be making an SQL Injection challenge that leads to a total system take over. 
 To see how to submit your challenges, refer to the [how to submit](./HOW-TO-SUBMIT.md). 
 
-LevelUpCTF comes in two phases. Phase One: you make and submit your challenges. The repository will be accepting submissions until the beginning of Semester 2 (3rd of August). This means you have about a month to learn, design and create. 
+LevelUpCTF comes in two phases. Phase One: you make and submit your challenges. The repository will be accepting submissions until the end of Semester 2. This means you have a semester to learn, design and create. 
 
-After the 3rd we will enter Phase Two - the actual CTF. For the first two weeks of Semester 2 (3rd of August – 16th of August) MONSEC will be hosting the submitted challenges, for you to try and solve yourself. During this time, for the challenges you solve, you will be able to give feedback to the creator; including rating their challenge in a series of categories, such as “how realistic it is” or “how novel the solution was to you”. 
+After this we will enter Phase Two - the actual CTF. MONSEC will be hosting the submitted challenges, for you to try and solve yourself. During this time, for the challenges you solve, you will be able to give feedback to the creator; including rating their challenge in a series of categories, such as “how realistic it is” or “how novel the solution was to you”. 
 
 My aim for this CTF is that each and everyone one of you that choses to participate will level-up your skills as a L33T Hax0r. After creating these challenges, you should learn skills in a new field and might even find you enjoy it more than the one you are currently focusing on. I hope to have fun with the challenge, and I look forward to seeing what you come up with.
 
